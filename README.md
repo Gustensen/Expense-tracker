@@ -8,9 +8,9 @@ Track and manage your finances with this simple expense tracker. This app allows
 * **Categorization:** Categorize expenses to understand where your money is going.
 
 ## Technologies Used
-* **HTML
-* **CSS
-* **Javascript
+* HTML
+* CSS
+* Javascript
 
 
 
